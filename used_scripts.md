@@ -3,7 +3,7 @@
 
 
 #### java相关
-* 备份当前目录下的所有jar：[backup\_jar.sh](./scripts/backup_jar.sh)
+* 备份当前目录下的所有jar：[backup\_jar.sh](./scripts/backup_jar.sh)
 * 启动jar包(spring boot)：[start-jar.sh](./scripts/start-jar.sh)
 * 停止jar包(spring boot)：[shutdown-jar.sh](./scripts/shutdown-jar.sh)
 * 从maven私库下载最新jar/war包：[download\_from\_nexus.sh](./scripts/download_from_nexus.sh)
