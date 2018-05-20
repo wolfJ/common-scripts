@@ -8,7 +8,7 @@
 ### 概念
 任何一个知识点，都需要对整体、概要有个了解，主要是为了在脑海中形成一张图，以后遇到问题，结合上下文，自己能够判断问题的范围、边界。
 
-参见 [script 介绍](./indroduce_script.md)
+参见：[script 介绍](./indroduce_script.md)
 
 ### 语法级别
 bash syntax  
@@ -29,4 +29,4 @@ bash syntax
 ### 常用脚本整理
 所有整理的脚本在centos7下测试通过。其它linux,unix like的系统下可能不正确，做相应调整即可。  
 
-参见 [常用脚本整理](./used_scripts.md)
+参见：[常用脚本整理](./used_scripts.md)
